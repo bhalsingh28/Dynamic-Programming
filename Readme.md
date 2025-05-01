@@ -1,5 +1,23 @@
 # 🧠 Dynamic Programming Notes
 
+## 🧩 How to Identify if DP Can Be Used?
+
+### Key Signs:
+
+1. **Choice**
+2. **Optimal Substructure**
+   - (Max/Min/Largest...)
+
+### Analysis:
+
+- Total problem → Choice → Recursion → 2 Calls
+- **⚠️ If only 1 call is made → No DP needed**
+
+### DP Conversion:
+
+- Recursion _(Must)_ → Memoization → **Top-Down Approach** ✅
+- **Easy to visualize using a table/grid**
+
 ## 🗂️ Types of Problems
 
 > With common variations and references
@@ -27,21 +45,3 @@
 - Number of Subsets with Given Difference
 
 ---
-
-## 🧩 How to Identify if DP Can Be Used?
-
-### Key Signs:
-
-1. **Choice**
-2. **Optimal Substructure**
-   - (Max/Min/Largest...)
-
-### Analysis:
-
-- Total problem → Choice → Recursion → 2 Calls
-- **⚠️ If only 1 call is made → No DP needed**
-
-### DP Conversion:
-
-- Recursion _(Must)_ → Memoization → **Top-Down Approach** ✅
-- **Easy to visualize using a table/grid**

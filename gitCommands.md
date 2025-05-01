@@ -97,4 +97,16 @@ git diff --cached  # Show staged changes
 
 ---
 
-> Save this file and use it as a quick reference for your daily Git workflow.
+```mermaid
+graph TD
+  A[Start: Clone Repo] --> B[Create Feature Branch]
+  B --> C[Edit Files]
+  C --> D[Stage Changes (git add)]
+  D --> E[Commit Changes (git commit)]
+  E --> F[Push to Remote (git push)]
+  F --> G[Open Pull Request]
+  G --> H{Code Review}
+  H -- Approved --> I[Merge to Main]
+  I --> J[Pull Latest (git pull)]
+  H -- Changes Requested --> C
+```
