@@ -16,7 +16,7 @@
 ### DP Conversion:
 
 - Recursion _(Must)_ → Memoization → **Top-Down Approach** ✅
-- **Easy to visualize using a table/grid**
+- **Easy to create table/grid after recursion**
 
 ## 🗂️ Types of Problems
 
@@ -28,7 +28,7 @@
 4. **LCS (Longest Common Subsequence)** (17)
 5. **LIS (Longest Increasing Subsequence)** (10)
 6. **Kadane's Algorithm** (6)
-7. **Matrix Chain Multiplication** (7) ⭐⭐
+7. **Matrix Chain Multiplication** (7)
 8. **DP on Trees** (4)
 9. **DP on Grid** (14)
 10. **Others** (5)
