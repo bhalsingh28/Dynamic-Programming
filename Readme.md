@@ -22,7 +22,7 @@
 
 > With common variations and references
 
-1. **0-1 Knapsack** (6 variations)
+1. [**0-1 Knapsack**](#0-1-knapsack-problem) (6 variations)
 2. **Unbounded Knapsack** (5)
 3. **Fibonacci** (~7)
 4. **LCS (Longest Common Subsequence)** (17)

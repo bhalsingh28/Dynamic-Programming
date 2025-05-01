@@ -46,6 +46,12 @@ git push -u origin main  # Push to remote (set upstream)
 git push  # Push changes
 git pull  # Pull latest changes from remote
 git fetch  # Fetch from remote (no merge)
+
+# To update the name of Repo -> Do it from github Then:
+git remote set-url origin https://github.com/your-username/new-repo-name.git # New URL
+
+git remote -v # Should Show the updated URL
+
 ```
 
 ## Viewing History
