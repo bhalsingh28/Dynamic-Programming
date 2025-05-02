@@ -34,3 +34,8 @@ cmake-build-*/
 
 # VSCode
 .vscode/
+
+
+*.bin
+*.out
+*.exe
