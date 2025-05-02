@@ -1,0 +1,36 @@
+# Object files
+*.o
+*.obj
+
+# Compiled binary (no extension or .exe)
+a.out
+*.exe
+
+# Core dumps
+core
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# CMake and Make-related files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Editor and OS junk
+*.log
+*.swp
+*~
+.DS_Store
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# VSCode
+.vscode/

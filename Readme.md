@@ -12,7 +12,7 @@
 
 - Total problem → Choice → Recursion → 2 Calls
 
-- **⚠️ DP is only useful when there are subproblems. If only 1 call is made → No DP needed**
+- **⚠️ DP is only useful when there are subproblems. If only 1 call is made in recursion → No DP needed**
 
 ### DP Conversion:
 

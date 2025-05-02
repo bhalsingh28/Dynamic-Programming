@@ -50,3 +50,8 @@
 ## Tip
 
 For simple workflows and GitHub-friendly visuals, start with **Mermaid** or **Draw.io**, depending on whether you prefer code or drag-and-drop.
+
+<!-- https://gohugo.io/getting-started/quick-start/ -->
+
+<!-- https://jekyllrb.com/ -->
+<!-- githubpages -->
